@@ -2,7 +2,7 @@
 
 ![IMAGE](http://nsa39.casimages.com/img/2018/02/20/180220062531406418.png)
 
-UPDATE AS OF 16.08.2026
+UPDATE AS OF 16.08.2026 from Jamo
 Updated the HackingToolkit9DS.bat to contain -major %MajorVer% so now it's possible to remove the annoying notification on 3ds to update your game.
 
 UPDATE AS OF JUNE 21st 2018
